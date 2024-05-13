@@ -1,12 +1,12 @@
 import { ProductModel } from './../../../interfaces/productmodel';
 import { Component, OnInit } from '@angular/core';
-import { MdCardsComponent } from '../../cards/md-cards/md-cards.component';
+import { CardsComponent } from '../../cards/cards.component';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-preparadi',
   standalone: true,
-  imports: [MdCardsComponent],
+  imports: [CardsComponent],
   templateUrl: './preparadi.component.html',
   styleUrl: './preparadi.component.scss'
 })

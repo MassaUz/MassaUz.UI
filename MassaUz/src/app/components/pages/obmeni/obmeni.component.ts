@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { SubscribeComponent } from '../../subscribe/subscribe.component';
+import { SubcribeComponent } from "../../subcribe/subcribe.component";
 
 @Component({
   selector: 'app-obmeni',
   standalone: true,
-  imports: [SubscribeComponent],
+  imports: [SubcribeComponent],
   templateUrl: './obmeni.component.html',
   styleUrl: './obmeni.component.scss'
 })
