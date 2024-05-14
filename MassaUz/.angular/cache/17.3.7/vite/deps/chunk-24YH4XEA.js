@@ -1,6 +1,6 @@
 import {
   CommonModule
-} from "./chunk-NSJEZV3R.js";
+} from "./chunk-D4TI5JYM.js";
 import {
   Component,
   Directive,
@@ -8,7 +8,6 @@ import {
   Input,
   InputFlags,
   NgModule,
-  Subject,
   TemplateRef,
   setClassMetadata,
   signal,
@@ -20,7 +19,10 @@ import {
   ɵɵdirectiveInject,
   ɵɵprojection,
   ɵɵprojectionDef
-} from "./chunk-2EPJZXRW.js";
+} from "./chunk-VCH6JVBI.js";
+import {
+  Subject
+} from "./chunk-WSA2QMXP.js";
 import {
   __spreadValues
 } from "./chunk-J4B6MK7R.js";
@@ -1033,4 +1035,4 @@ export {
   PrimeTemplate,
   SharedModule
 };
-//# sourceMappingURL=chunk-4PSEHWLC.js.map
+//# sourceMappingURL=chunk-24YH4XEA.js.map
